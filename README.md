@@ -844,7 +844,6 @@ export default Roadmap;
 
 ## <a name="more">🚀 More</a>
 
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
 <img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
 </a>
 # Brainwave
